@@ -1,0 +1,27 @@
+_repo: Campaign-of-the-Fourteenth-Regiment-New-Jersey-Volunteers_37550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Terrill, J. Newton (John Newton)
+    alias: Terrill, John Newton
+    gutenberg_agent_id: '38913'
+    url: http://www.gutenberg.org/2009/agents/38913
+description: ''
+gutenberg_issued: '2011-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37550'
+  lccn: '02014501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. New Jersey Infantry Regiment, 14th (1862-1865)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: Campaign of the Fourteenth Regiment New Jersey Volunteers
+url: http://www.gutenberg.org/ebooks/37550
